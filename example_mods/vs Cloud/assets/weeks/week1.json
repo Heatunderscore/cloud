@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Cloud", "cloud", [146, 113, 253]],
+		["Rain", "cloud", [146, 113, 253]],
+		["Silver-lining", "senpai-pixel", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Weeaboo mishap",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
