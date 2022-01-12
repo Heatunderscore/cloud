@@ -45,19 +45,6 @@
 						2333.33333333333,
 						1,
 						166.666666666667
-					],
-					[
-						2333.33333333333,
-						7,
-						0,
-						"Rain Note"
-					],
-					[
-						2416.66666666667,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -104,19 +91,6 @@
 						4333.33333333333,
 						2,
 						166.666666666667
-					],
-					[
-						5000,
-						4,
-						0,
-						"Rain Note"
-					],
-					[
-						5083.33333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -260,32 +234,6 @@
 						13000,
 						1,
 						166.666666666667
-					],
-					[
-						12666.6666666667,
-						6,
-						0,
-						"Rain Note"
-					],
-					[
-						13000,
-						5,
-						0,
-						"Rain Note"
-					],
-					[
-						12750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						13083.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -347,19 +295,6 @@
 						14333.3333333333,
 						1,
 						166.666666666667
-					],
-					[
-						15666.6666666667,
-						6,
-						0,
-						"Rain Note"
-					],
-					[
-						15750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -477,19 +412,6 @@
 						19833.3333333333,
 						0,
 						0
-					],
-					[
-						21000,
-						0,
-						0,
-						"Rain Note"
-					],
-					[
-						21083.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": true
@@ -561,19 +483,6 @@
 						22166.6666666667,
 						2,
 						0
-					],
-					[
-						23666.6666666667,
-						6,
-						0,
-						"Rain Note"
-					],
-					[
-						23750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -605,6 +514,13 @@
 						25833.3333333333,
 						2,
 						0
+					],
+					[
+						26333.3333333333,
+						-1,
+						"Hey!",
+						"",
+						""
 					],
 					[
 						24000,
@@ -650,13 +566,6 @@
 						24833.3333333333,
 						0,
 						0
-					],
-					[
-						26333.3333333333,
-						-1,
-						"Hey!",
-						"",
-						""
 					]
 				],
 				"mustHitSection": true
@@ -728,19 +637,6 @@
 						28500,
 						3,
 						0
-					],
-					[
-						29000,
-						6,
-						0,
-						"Rain Note"
-					],
-					[
-						29083.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -940,110 +836,6 @@
 						34500,
 						0,
 						0
-					],
-					[
-						32000,
-						4,
-						0,
-						"Rain Note"
-					],
-					[
-						32500,
-						6,
-						0,
-						"Rain Note"
-					],
-					[
-						32583.3333333333,
-						7,
-						0,
-						"Rain Note"
-					],
-					[
-						32666.6666666667,
-						5,
-						0,
-						"Rain Note"
-					],
-					[
-						34000,
-						6,
-						0,
-						"Rain Note"
-					],
-					[
-						34166.6666666667,
-						6,
-						0,
-						"Rain Note"
-					],
-					[
-						34083.3333333333,
-						7,
-						0,
-						"Rain Note"
-					],
-					[
-						34250,
-						7,
-						0,
-						"Rain Note"
-					],
-					[
-						32083.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						32583.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						32666.6666666667,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						32750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						34083.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						34166.6666666667,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						34250,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						34333.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -1102,18 +894,33 @@
 						0
 					],
 					[
-						36333.3333333333,
-						3,
-						0
-					],
-					[
 						36500,
 						3,
 						0
 					],
 					[
+						36583.3333333333,
+						1,
+						0
+					],
+					[
+						36833.3333333333,
+						2,
+						0
+					],
+					[
+						37000,
+						2,
+						0
+					],
+					[
+						37166.6666666667,
+						2,
+						0
+					],
+					[
 						36000,
-						3,
+						1,
 						0
 					],
 					[
@@ -1123,85 +930,18 @@
 					],
 					[
 						36250,
-						2,
+						3,
 						0
 					],
 					[
-						36583.3333333333,
-						1,
+						36333.3333333333,
+						0,
 						0
 					],
 					[
 						36666.6666666667,
 						2,
 						0
-					],
-					[
-						36833.3333333333,
-						2,
-						0
-					],
-					[
-						37000,
-						2,
-						0
-					],
-					[
-						37166.6666666667,
-						2,
-						0
-					],
-					[
-						36666.6666666667,
-						5,
-						0,
-						"Rain Note"
-					],
-					[
-						36833.3333333333,
-						5,
-						0,
-						"Rain Note"
-					],
-					[
-						37000,
-						5,
-						0,
-						"Rain Note"
-					],
-					[
-						37166.6666666667,
-						5,
-						0,
-						"Rain Note"
-					],
-					[
-						36750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						36916.6666666667,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						37083.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						37250,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -1308,45 +1048,6 @@
 						39833.3333333333,
 						1,
 						0
-					],
-					[
-						39333.3333333333,
-						1,
-						0,
-						"Rain Note"
-					],
-					[
-						39500,
-						2,
-						0,
-						"Rain Note"
-					],
-					[
-						39666.6666666667,
-						1,
-						0,
-						"Rain Note"
-					],
-					[
-						39416.6666666667,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						39583.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						39750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": true
@@ -1458,32 +1159,6 @@
 						42500,
 						2,
 						0
-					],
-					[
-						42333.3333333333,
-						1,
-						0,
-						"Rain Note"
-					],
-					[
-						42500,
-						1,
-						0,
-						"Rain Note"
-					],
-					[
-						42416.6666666667,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						42583.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": true
@@ -1530,32 +1205,6 @@
 						45000,
 						1,
 						166.666666666667
-					],
-					[
-						44666.6666666667,
-						4,
-						0,
-						"Rain Note"
-					],
-					[
-						45000,
-						7,
-						0,
-						"Rain Note"
-					],
-					[
-						44750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						45083.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -1602,32 +1251,6 @@
 						47000,
 						2,
 						166.666666666667
-					],
-					[
-						47333.3333333333,
-						6,
-						0,
-						"Rain Note"
-					],
-					[
-						47666.6666666667,
-						5,
-						0,
-						"Rain Note"
-					],
-					[
-						47416.6666666667,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						47750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -1720,32 +1343,6 @@
 						53000,
 						3,
 						166.666666666667
-					],
-					[
-						52666.6666666667,
-						3,
-						0,
-						"Rain Note"
-					],
-					[
-						53000,
-						1,
-						0,
-						"Rain Note"
-					],
-					[
-						52750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						53083.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": true
@@ -1837,19 +1434,6 @@
 						55666.6666666667,
 						6,
 						166.666666666667
-					],
-					[
-						55666.6666666667,
-						5,
-						0,
-						"Rain Note"
-					],
-					[
-						55750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -1951,19 +1535,6 @@
 						58333.3333333333,
 						7,
 						166.666666666667
-					],
-					[
-						58333.3333333333,
-						6,
-						0,
-						"Rain Note"
-					],
-					[
-						58416.6666666666,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -2055,32 +1626,6 @@
 						60333.3333333333,
 						6,
 						166.666666666667
-					],
-					[
-						59833.3333333333,
-						3,
-						0,
-						"Rain Note"
-					],
-					[
-						61000,
-						1,
-						0,
-						"Rain Note"
-					],
-					[
-						59916.6666666666,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						61083.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": true
@@ -2187,19 +1732,6 @@
 						63666.6666666666,
 						7,
 						166.666666666667
-					],
-					[
-						63666.6666666666,
-						0,
-						0,
-						"Rain Note"
-					],
-					[
-						63750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": true
@@ -2251,19 +1783,6 @@
 						64000,
 						3,
 						166.666666666667
-					],
-					[
-						66333.3333333333,
-						4,
-						0,
-						"Rain Note"
-					],
-					[
-						66416.6666666666,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -2325,19 +1844,6 @@
 						68666.6666666666,
 						4,
 						333.333333333333
-					],
-					[
-						69000,
-						7,
-						0,
-						"Rain Note"
-					],
-					[
-						69083.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -2521,19 +2027,6 @@
 						74666.6666666666,
 						3,
 						166.666666666667
-					],
-					[
-						77000,
-						4,
-						0,
-						"Rain Note"
-					],
-					[
-						77083.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -2595,19 +2088,6 @@
 						79333.3333333333,
 						4,
 						333.333333333333
-					],
-					[
-						79666.6666666667,
-						7,
-						0,
-						"Rain Note"
-					],
-					[
-						79750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -2740,19 +2220,6 @@
 						84583.3333333333,
 						5,
 						333.333333333333
-					],
-					[
-						85000,
-						3,
-						0,
-						"Rain Note"
-					],
-					[
-						85083.3333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": true
@@ -2996,32 +2463,6 @@
 						92333.3333333334,
 						2,
 						0
-					],
-					[
-						92000,
-						0,
-						0,
-						"Rain Note"
-					],
-					[
-						92333.3333333334,
-						0,
-						0,
-						"Rain Note"
-					],
-					[
-						92083.3333333334,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						92416.6666666667,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": true
@@ -3103,32 +2544,6 @@
 						95000,
 						2,
 						0
-					],
-					[
-						95166.6666666667,
-						0,
-						0,
-						"Rain Note"
-					],
-					[
-						95833.3333333334,
-						2,
-						0,
-						"Rain Note"
-					],
-					[
-						95250,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						95916.6666666667,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": true
@@ -3250,19 +2665,6 @@
 						97666.6666666667,
 						2,
 						0
-					],
-					[
-						98333.3333333334,
-						5,
-						0,
-						"Rain Note"
-					],
-					[
-						98416.6666666667,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -3384,19 +2786,6 @@
 						100333.333333333,
 						2,
 						0
-					],
-					[
-						101000,
-						6,
-						0,
-						"Rain Note"
-					],
-					[
-						101083.333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": false
@@ -3518,32 +2907,6 @@
 						103000,
 						2,
 						0
-					],
-					[
-						102666.666666667,
-						0,
-						0,
-						"Rain Note"
-					],
-					[
-						103000,
-						0,
-						0,
-						"Rain Note"
-					],
-					[
-						102750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						103083.333333333,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": true
@@ -3665,19 +3028,6 @@
 						105666.666666667,
 						2,
 						0
-					],
-					[
-						105833.333333333,
-						0,
-						0,
-						"Rain Note"
-					],
-					[
-						105916.666666667,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
 					]
 				],
 				"mustHitSection": true
@@ -3694,36 +3044,9 @@
 						106666.666666667,
 						6,
 						166.666666666667
-					],
-					[
-						106666.666666667,
-						1,
-						0,
-						"Rain Note"
-					],
-					[
-						106750,
-						-1,
-						"Play Animation",
-						"dodge",
-						"bf"
-					],
-					[
-						107666.666666667,
-						-1,
-						"Play Animation",
-						"hey",
-						"sadcloud"
-					],
-					[
-						109000,
-						-1,
-						"Change Character",
-						"1",
-						"cloud"
 					]
 				],
-				"mustHitSection": false
+				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,
@@ -4144,115 +3467,6 @@
 				"typeOfSection": 0,
 				"sectionNotes": [],
 				"altAnim": false,
-				"bpm": 90,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 90
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 90
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 90
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 90
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 90
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 90
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 90
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 90
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 90
-			},
-			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"altAnim": false,
-				"bpm": 90,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 90
-			},
-			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"altAnim": false,
-				"gfSection": false,
 				"bpm": 90,
 				"changeBPM": false,
 				"mustHitSection": true
@@ -4276,6 +3490,26 @@
 				"mustHitSection": true,
 				"changeBPM": false,
 				"bpm": 90
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 90,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 90,
+				"changeBPM": false,
+				"mustHitSection": true
 			},
 			{
 				"gfSection": false,

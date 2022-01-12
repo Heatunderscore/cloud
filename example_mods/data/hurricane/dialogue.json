@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Huh? Where am I? Who are you?",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "cloudPixel"
+		},
+		{
+			"expression": "spirit",
+			"text": "Greetings mortal being",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "senpai"
+		},
+		{
+			"expression": "spirit",
+			"text": "You were unwise to ignore the warning of the young lady whom you stole this game from",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "senpai"
+		},
+		{
+			"expression": "talk",
+			"text": "Lol ok but not what i asked",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "cloudPixel"
+		},
+		{
+			"expression": "talk",
+			"text": "and why are you so ugly",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "cloudPixel"
+		},
+		{
+			"expression": "spirit",
+			"text": "Ok fuck you",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "senpai"
+		},
+		{
+			"expression": "spirit",
+			"text": "YOU SHALL PERISH BENEATH MY HEEL",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "senpai"
+		},
+		{
+			"expression": "spirit",
+			"text": "YOU WILL TREMBLE AT THE MERE MENTION OF MY NAME",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "senpai"
+		},
+		{
+			"expression": "talk",
+			"text": "nah",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "cloudPixel"
+		},
+		{
+			"expression": "spirit",
+			"text": "what",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "senpai"
+		}
+	]
+}
