@@ -1,0 +1,186 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "HEY EVERYONE!!!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "excited",
+			"text": "Look what I...",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "pissed",
+			"text": "...got",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "pissed",
+			"text": "Where is everybody..?",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "pissed",
+			"text": "The invitations said 2pm...",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "excited",
+			"text": "Hehe! I suppose everyone is just late...",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "talk",
+			"text": ". . .",
+			"boxState": "normal",
+			"speed": 0.5,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "pissed",
+			"text": "... 2 hours... late",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "talk",
+			"text": ". . .",
+			"boxState": "normal",
+			"speed": 0.5,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "shocked",
+			"text": "... 3 hours.....",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "talk",
+			"text": ". . .",
+			"boxState": "normal",
+			"speed": 0.5,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "idk",
+			"text": "I can' believe nobody showed up to my birthday party...",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "shocked",
+			"text": "Is it because I try to distract myself with pointless television?",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "shocked",
+			"text": "All I do is surround myself with romantic media in hope I can feel the closest thing to real intimacy",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey, now that's not true!",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "Senpai"
+		},
+		{
+			"expression": "pissed",
+			"text": "..!",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "excited",
+			"text": "S-SENPAI?!?!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "talk",
+			"text": "That's right, miss cloud!",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "Senpai"
+		},
+		{
+			"expression": "talk",
+			"text": "That lovely little lady on the street corner you rescued my game from was indeed inflicted with a curse",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "senpai"
+		},
+		{
+			"expression": "excited",
+			"text": "OMG OMG THIS IS THE BEST DAY EVER AHHHH",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "excited",
+			"text": "(Jeez, no wonder nobody showed up to her party)",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "senpai"
+		},
+		{
+			"expression": "talk",
+			"text": "Say, little miss Cloud...",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "senpai"
+		},
+		{
+			"expression": "talk",
+			"text": "Before my game disintegrates, how would you like one last serenade? For the birthday girl!",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "senpai"
+		},
+		{
+			"expression": "excited",
+			"text": "THIS IS THE BEST 15TH BIRTHDAY EVER!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "cloudr"
+		},
+		{
+			"expression": "talk",
+			"text": "Well! better get started, I do not have much time left!",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "senpai"
+		},
+		{
+			"expression": "excited",
+			"text": "(Wait, did she say 15?)",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "senpai"
+		}
+	]
+}

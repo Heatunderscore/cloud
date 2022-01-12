@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.055,
+			"portrait": "cloud",
+			"boxState": "normal",
+			"expression": "idk",
+			"text": "but... but..."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "cloud",
+			"boxState": "normal",
+			"expression": "idk",
+			"text": "I can't lose"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look kid, I can tell you really want this game, But it's got a dangerous curse cast on it\r"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'd hate for you to get hurt"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "cloud",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "You just hate me because i'm annoying..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cloud",
+			"boxState": "normal",
+			"expression": "idk",
+			"text": "And on my birthday, of all days..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "cloud",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Wait..."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "cloud",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "MY PARTY!"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "cloud",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "I'M GOING TO MISS MY PARTY!!!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Your party?"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "cloud",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "PLEASE MR BLUE GUY! ITS MY BIRTHDAY"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look I really can't, just-"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "cloud",
+			"boxState": "angry",
+			"expression": "idk",
+			"text": "FINE!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "cloud",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Fine."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "cloud",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "If you won't give it to me..."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "cloud",
+			"boxState": "normal",
+			"expression": "idk",
+			"text": "I'll just TAKE it!"
+		}
+	]
+}

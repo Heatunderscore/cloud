@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lightningStrike.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="strike0000" x="0" y="0" width="2048" height="2048"/>
+	<SubTexture name="strike0001" x="0" y="0" width="2048" height="2048"/>
+	<SubTexture name="strike0002" x="0" y="2048" width="2048" height="2048"/>
+	<SubTexture name="strike0003" x="0" y="4096" width="2048" height="2048"/>
+	<SubTexture name="strike0004" x="0" y="6144" width="2048" height="2048"/>
+	<SubTexture name="strike0005" x="2048" y="0" width="2048" height="2048"/>
+	<SubTexture name="strike0006" x="2048" y="2048" width="2048" height="2048"/>
+	<SubTexture name="strike0007" x="2048" y="4096" width="2048" height="2048"/>
+	<SubTexture name="strike0008" x="2048" y="6144" width="2048" height="2048"/>
+	<SubTexture name="strike0009" x="4096" y="0" width="2048" height="2048"/>
+</TextureAtlas>

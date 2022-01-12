@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Huh? Where am I? Who are you?",
+			"boxState": "normal",
+			"portrait": "Pixel",
+			"speed": 0.03
+		},
+		{
+			"expression": "excited",
+			"text": "Greetings mortal being",
+			"boxState": "normal",
+			"portrait": "senpai",
+			"speed": 0.03
+		},
+		{
+			"expression": "excited",
+			"text": "You were unwise to ignore the warning of the young lady whom you stole this game from",
+			"boxState": "normal",
+			"portrait": "senpai",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "Lol ok but not what I asked",
+			"boxState": "normal",
+			"portrait": "Pixel",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "and why are you so ugly",
+			"boxState": "normal",
+			"portrait": "Pixel",
+			"speed": 0.03
+		},
+		{
+			"expression": "excited",
+			"text": "Ok fuck you",
+			"boxState": "normal",
+			"portrait": "senpai",
+			"speed": 0.03
+		},
+		{
+			"expression": "excited",
+			"text": "YOU SHALL PERISH BENEATH MY HEEL",
+			"boxState": "normal",
+			"portrait": "senpai",
+			"speed": 0.03
+		},
+		{
+			"expression": "excited",
+			"text": "YOU WILL TREMBLE AT THE MERE MENTION OF MY NAME",
+			"boxState": "normal",
+			"portrait": "senpai",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "nah",
+			"boxState": "normal",
+			"portrait": "Pixel",
+			"speed": 0.03
+		},
+		{
+			"expression": "excited",
+			"text": "what",
+			"boxState": "normal",
+			"portrait": "senpai",
+			"speed": 0.03
+		}
+	]
+}

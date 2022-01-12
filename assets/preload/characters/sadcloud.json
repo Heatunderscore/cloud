@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				60,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				64,
+				-21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				176,
+				73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "end"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sadcloud",
+	"position": [
+		-20,
+		70
+	],
+	"healthicon": "cloud",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		174,
+		185
+	],
+	"camera_position": [
+		20,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

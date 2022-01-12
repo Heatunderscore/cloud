@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-77,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-77,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left0"
+		},
+		{
+			"offsets": [
+				-80,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				-35,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				-75,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right0"
+		},
+		{
+			"offsets": [
+				-75,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-79,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-34,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-77,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Cloud Dies Fixed"
+		},
+		{
+			"offsets": [
+				-77,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Cloud Dies Loop Fixed"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tiredcloud",
+	"position": [
+		-380,
+		-110
+	],
+	"healthicon": "cloud",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		174,
+		185
+	],
+	"camera_position": [
+		-220,
+		190
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

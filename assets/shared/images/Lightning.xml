@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lightning.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lightning0000" x="0" y="0" width="834" height="1162"/>
+	<SubTexture name="Lightning0001" x="834" y="0" width="834" height="1162"/>
+	<SubTexture name="Lightning0002" x="1668" y="0" width="834" height="1162"/>
+	<SubTexture name="Lightning0003" x="2502" y="0" width="834" height="1162"/>
+	<SubTexture name="Lightning0004" x="0" y="1162" width="834" height="1162"/>
+	<SubTexture name="Lightning0005" x="834" y="1162" width="834" height="1162"/>
+	<SubTexture name="Lightning0006" x="0" y="1162" width="834" height="1162"/>
+	<SubTexture name="Lightning0007" x="1668" y="1162" width="834" height="1162"/>
+	<SubTexture name="Lightning0008" x="0" y="1162" width="834" height="1162"/>
+	<SubTexture name="Lightning0009" x="2502" y="1162" width="834" height="1162"/>
+	<SubTexture name="Lightning0010" x="0" y="1162" width="834" height="1162"/>
+	<SubTexture name="Lightning0011" x="0" y="1162" width="834" height="1162"/>
+	<SubTexture name="Lightning0012" x="0" y="1162" width="834" height="1162"/>
+	<SubTexture name="Lightning0013" x="0" y="1162" width="834" height="1162"/>
+	<SubTexture name="Lightning0014" x="0" y="1162" width="834" height="1162"/>
+	<SubTexture name="Lightning0015" x="0" y="1162" width="834" height="1162"/>
+</TextureAtlas>

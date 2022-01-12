@@ -1,0 +1,43 @@
+{
+	"storyName": "Weeaboo mishap",
+	"hideFreeplay": false,
+	"weekBackground": "cloud",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Cloud",
+			"cloud",
+			[
+				255,
+				175,
+				185
+			]
+		],
+		[
+			"Rain",
+			"cloud",
+			[
+				255,
+				175,
+				185
+			]
+		],
+		[
+			"Silver-lining",
+			"senpai-pixel",
+			[
+				255,
+				170,
+				111
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Cloud"
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cloud_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Black0000" x="0" y="0" width="2048" height="2111"/>
+	<SubTexture name="Cloud0001" x="2048" y="0" width="2048" height="2111"/>
+	<SubTexture name="Cloudbruh0002" x="4096" y="0" width="2048" height="2111"/>
+	<SubTexture name="Cloudfart0003" x="6144" y="0" width="2048" height="2111"/>
+	<SubTexture name="Cloudmoogus0004" x="0" y="2111" width="2048" height="2111"/>
+	<SubTexture name="Cloudsus0005" x="2048" y="2111" width="2048" height="2111"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Senpai_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Senpai0000.png" x="0" y="0" width="124" height="163"/>
+	<SubTexture name="Spirit0001.png" x="124" y="0" width="124" height="163"/>
+</TextureAtlas>

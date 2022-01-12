@@ -1,0 +1,76 @@
+{
+	"position": [
+		-750,
+		-780
+	],
+	"dialogue_pos": "right",
+	"scale": 0.25,
+	"image": "CloudR_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Black0",
+			"loop_name": "Black0"
+		},
+		{
+			"idle_offsets": [
+				0,
+				11
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				11
+			],
+			"idle_name": "Cloud0",
+			"loop_name": "Cloud0"
+		},
+		{
+			"idle_offsets": [
+				0,
+				11
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				11
+			],
+			"idle_name": "Cloudbruh0",
+			"loop_name": "Cloudbruh0"
+		},
+		{
+			"idle_offsets": [
+				0,
+				11
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				11
+			],
+			"idle_name": "Cloudmoogus0",
+			"loop_name": "Cloudmoogus0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				11
+			],
+			"anim": "idk",
+			"idle_offsets": [
+				0,
+				11
+			],
+			"loop_name": "Cloudsus0",
+			"idle_name": "Cloudsus0"
+		}
+	]
+}

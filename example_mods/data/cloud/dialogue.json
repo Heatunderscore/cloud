@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "And that's basically the entire history of NFTs",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Interesting...",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh look we're here",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah that game is cursed",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Let's chuck it before it hurts anyone else",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "WAAAIITTTTTT",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "cloud"
+		},
+		{
+			"expression": "talk",
+			"text": "PLEASE WAAAIITTTTTT",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "cloud"
+		},
+		{
+			"expression": "talk",
+			"text": "?",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "both"
+		},
+		{
+			"expression": "excited",
+			"text": "*huff* *puff* Hi! Is that hating simulator?",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "cloud"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah? But we're throwing it away becau-",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "BUT YOU CAN'T THROW IT AWAY",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "cloud"
+		},
+		{
+			"expression": "pissed",
+			"text": "THATS A LIMITED EDITION COPY",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "cloud"
+		},
+		{
+			"expression": "excited",
+			"text": "you can tell because senpais left eye is green",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "cloud"
+		},
+		{
+			"expression": "talk",
+			"text": "Look kid, i’m sure you're harmless but we really-",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "NO PLEASE",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "cloud"
+		},
+		{
+			"expression": "pissed",
+			"text": "LETS HAVE A SONG BATTLE",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "cloud"
+		},
+		{
+			"expression": "excited",
+			"text": "WHOEVER WINS KEEPS THE GAME",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "cloud"
+		}
+	]
+}
