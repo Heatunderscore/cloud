@@ -23,8 +23,27 @@
 				60,
 				110
 			]
+		], 
+		[
+			"Senpai",
+			"senpai-pixel",
+			[
+				255,
+				60,
+				110
+			]
+		],
+		[
+			"Roses",
+			"senpai-pixel",
+			[
+				255,
+				60,
+				110
+			]
 		]
 	],
+
 	"hideStoryMode": true,
 	"weekName": "Custom Week"
 }
